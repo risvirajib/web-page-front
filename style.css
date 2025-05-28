@@ -1,0 +1,229 @@
+#head{
+    display: flex;
+    justify-content: space-between;
+    
+    background-color: rgb(241, 247, 247);
+    padding: 10px 40px 15px;
+    padding-right: 40px;
+    border: 0px;
+   
+
+}
+body{
+     
+  background: linear-gradient(270deg, #7ad3ec, rgb(176, 244, 232), rgb(0, 179, 255), #ffea00);
+  background-size: 800% 800%;
+  animation: gradientShift 15s ease infinite;
+}
+#head h2{
+     margin-top: 20px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+#box{
+    height: 300px;
+}
+
+
+#box2{
+    background-color: rgb(19, 213, 213);
+    height: 3000px;
+}
+    *{
+        padding: 0px;
+        margin: 0px;
+        
+    }
+#head button{
+    margin-top: 10px;
+    padding: 10px;
+    border: 0px;
+    color: rgb(31, 31, 27);
+    font-size: 20px;
+    font-weight: 600;
+    height: 50px;
+    width: 10;
+    border-radius: 10px;
+    background-color: rgb(237, 191, 6);
+    
+}
+span{
+    color: rgb(245, 198, 11);
+}
+#box2{
+    background-color: rgb(231, 231, 241);
+    height: 350px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+#best{
+    text-align: center;
+    margin-right: 350px;
+}
+#box2 img{
+    height: 150px;
+    margin-left: 50%;
+    margin-right: 50%;
+    margin-top: 20px;
+}
+#box2 h1{
+    margin-left: 400px;
+    font-weight: 700px;
+    font-size: 50px;
+}
+    #box2 p{
+        margin-left:500px ;
+        margin-bottom: 20px;
+        margin-top: 20px;
+        text-align: center;
+        
+    }
+    #box2 button{
+        margin-left: 735px;
+        border-radius: 6px;
+        margin-left: 30px
+        
+        margin-top: 20px;
+        height: 40px;
+        width: 140px;
+        background-color: rgb(247, 196, 12);
+        border: 0px;
+    
+    }
+    #mid-area{
+        margin-top: 140px;
+        margin-bottom: 60px;
+    }
+    #mid-area h2{
+        margin-top: 60px;
+        padding-left: 700px;
+        padding-right: 40px;
+        margin-bottom: 30px;
+        font-weight: 900px;
+        font-size: 30px;
+    }
+    #mid-area p{
+        margin-bottom: 30px;
+        /* padding-left: 500px */
+        text-align: center;
+        margin-left: 50px;
+       
+    }
+#secound-area{
+    display: flex;
+    gap: 700px;
+    margin-left: 40px;
+    margin-right: 40px;
+    background-color: rgb(231, 231, 241);
+
+    
+
+}
+#secound-area img{
+    height: 200px;
+    margin-top: 60px;
+}
+#child{
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-top:90px ;
+    margin-top: 30px;
+
+    
+    
+}
+#secound-area button{
+    ;
+    margin-top: 10px;
+    height: 40px;
+    width: 150px;
+    margin-bottom: 60px;
+    font-weight: 700;
+    background-color: rgb(223, 190, 8);
+    border-radius: 7px;
+    border: 1px ;
+}
+#last{
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+#last h2{
+    text-align: center;
+    /* margin-left:700px;
+    margin-right: ; */
+    font-size: 40px; 
+}
+#last p{
+    margin-top: 30px;
+    text-align: center;
+}
+#ifram{
+    text-align: center;
+}
+#ifram iframe{
+    margin-bottom: 50px;
+    height: 450px;
+    width: 1000px;
+    border-radius: 20px;
+
+}
+#st{
+    padding-top: 40px;
+    padding-left: 30px;
+    text-align: left;
+    background-color:#B8E7FA;
+    width: 250px;
+    height: 150px;
+    border-radius: 10px;
+}
+#nd{
+    padding-top: 40px;
+    padding-left: 30px;
+    text-align: left;
+    background-color:#B8E7FA;
+    width: 250px;
+    height: 150px;
+    border-radius: 10px;
+}
+#rd{
+    padding-top: 40px;
+    padding-left: 30px;
+    text-align: left;
+    background-color:#B8E7FA;
+    width: 250px;
+    height: 150px;
+    border-radius: 10px;
+}
+#target{
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 40px;
+} 
+#target h2{
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+#target p{
+    margin-top:10px ;
+    margin-bottom: 20px;
+}
+#footer{
+    display: flex;
+    justify-content:  space-evenly;
+    margin-top: 60px;
+    margin-bottom: 50px;
+    
+    
+}
+#power{
+    display: flex; 
+    justify-content: space-evenly;
+    height: 60px;
+    background-color: azure;
+    padding-top: 20px;
+}
+#ancor{
+    gap: 20px;
+}
